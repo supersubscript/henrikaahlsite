@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: Mining | Processing | Analysis | Visualisation
     icon: terminal
-    icon_pack: fab
+    icon_pack: fas
     name: Proficiency in Python, R and C++
   - description: Ubuntu | OpenSUSE | Zsh | Vim
     icon: linux 
@@ -30,11 +30,11 @@ feature:
     name: Open research
   - description: Systems analysis | Genomics | Transcriptomics
     icon: dna
-    icon_pack: fab
+    icon_pack: fas
     name: Computational biology
   - description: Public speaking | Report writing 
     icon: megaphone
-    icon_pack: fab
+    icon_pack: fas
     name: Scientific communication
   - description: Git | Subversion
     icon: github
