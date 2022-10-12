@@ -34,7 +34,7 @@ feature:
     name: Computational biology
   - description: Public speaking | Report writing 
     icon: megaphone
-    icon_pack: fas
+    icon_pack: far
     name: Scientific communication
   - description: Git | Subversion
     icon: github
