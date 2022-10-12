@@ -44,9 +44,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-#Oh, hello there
 
-I am a postdoctoral Research Associate working at the Sainsbury Laboratory at
+
+Hi! I am a postdoctoral Research Associate working at the Sainsbury Laboratory at
 the University of Cambridge. My work is specialised in integrative methods,
 combining experimental data, computational methods, and mathematical theory to
 better understand how organisms grow and develop.
