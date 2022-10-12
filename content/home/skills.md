@@ -17,13 +17,21 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Process | Analyze | Visualize
-    icon: code
+    icon: terminal
     icon_pack: fab
     name: Proficiency in Python, R and C++
-  - description: Ubuntu | OpenSUSE
+  - description: Ubuntu | OpenSUSE | Zsh
     icon: linux 
     icon_pack: fab
     name: Linux enthusiast
+  - description: Open source | Team science
+    icon: osf 
+    icon_pack: ai
+    name: Open research
+  - description: Systems analysis | Genomics | Transcriptomics
+    icon: dna
+    icon_pack: fab
+    name: Computational biology
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
