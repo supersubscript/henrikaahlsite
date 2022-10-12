@@ -44,7 +44,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi!
+#Oh, hello there
 
 I am a postdoctoral Research Associate working at the Sainsbury Laboratory at
 the University of Cambridge. My work is specialised in integrative methods,
@@ -52,5 +52,5 @@ combining experimental data, computational methods, and mathematical theory to
 better understand how organisms grow and develop.
 
 Beyond my role as an academic researcher I am passionate about public data, open
-source, and data analysis broadly. In my free time, I hike, climb, and spend
-time with my daughter.
+source, and data analysis broadly. In my free time fiddle with my camera, hike, 
+climb, and spend time with my daughter.
