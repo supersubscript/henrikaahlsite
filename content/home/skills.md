@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Mining | Processing | Analysis | Visualisation
-    icon: terminal
+    icon: code
     icon_pack: fas
     name: Proficiency in Python, R and C++
   - description: Ubuntu | OpenSUSE | Zsh | Vim
@@ -33,7 +33,7 @@ feature:
     icon_pack: fas
     name: Computational biology
   - description: Public speaking | Report writing 
-    icon: podium
+    icon: bullhorn
     icon_pack: fas
     name: Scientific communication
   - description: Git | Subversion
