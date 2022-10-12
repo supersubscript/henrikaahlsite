@@ -14,11 +14,11 @@ main:
     weight: 40
     #  - name: Open Science
     #    url: '/openScience/'
-    weight: 50
+    #weight: 50
     #  - name: Posts
     #    url: '/post/'
-    weight: 60
-  - name: Resume/CV
+    #weight: 60
+  - name: CV
     url: '/files/cv.pdf'
     weight: 70
   
