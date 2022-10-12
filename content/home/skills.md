@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Process | Analyze | Visualize
+  - description: Mining | Processing | Analysis | Visualisation
     icon: terminal
     icon_pack: fab
     name: Proficiency in Python, R and C++
-  - description: Ubuntu | OpenSUSE | Zsh
+  - description: Ubuntu | OpenSUSE | Zsh | Vim
     icon: linux 
     icon_pack: fab
     name: Linux enthusiast
@@ -32,11 +32,14 @@ feature:
     icon: dna
     icon_pack: fab
     name: Computational biology
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"
+  - description: Public speaking | Report writing 
+    icon: megaphone
+    icon_pack: fab
+    name: Scientific communication
+  - description: Git | Subversion
+    icon: github
+    icon_pack: fab
+    name: Version control
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
