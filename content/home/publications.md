@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Publications
-subtitle: 'For a complete and up-to-date list of publications, check out my [Google Scholar](https://scholar.google.com/citations?user=jxApK7gAAAAJ&hl=en).'
+subtitle: 'For a complete and up-to-date list of publications, check out my [Google Scholar](https://scholar.google.com/citations?user=sN1Ta1AAAAAJ).'
 
 content:
   # Filter on criteria
