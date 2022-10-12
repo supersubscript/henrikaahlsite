@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Process | Analyze | Visualize
-    icon: fa-code
+    icon: code
     icon_pack: fab
-    name: Comprehensive proficiency in Python, R and C++
+    name: Proficiency in Python, R and C++
   - description: Ubuntu | OpenSUSE
-    icon: fa-linux 
+    icon: linux 
     icon_pack: fab
     name: Linux enthusiast
 # Uncomment to use emoji icons.
