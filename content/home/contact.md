@@ -16,13 +16,13 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: nick.ballou@gmail.com
-  phone: +44 7367 525567
+  email: henrikaahl@gmail.com
+  phone: +4479 99 306 112
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Twitter (DMs open)
-      link: 'https://twitter.com/nbballou'
+      name: Twitter
+      link: 'https://twitter.com/aaaaahl'
 
 design:
   columns: '2'
