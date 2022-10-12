@@ -33,8 +33,8 @@ feature:
     icon_pack: fas
     name: Computational biology
   - description: Public speaking | Report writing 
-    icon: megaphone
-    icon_pack: far
+    icon: podium
+    icon_pack: fas
     name: Scientific communication
   - description: Git | Subversion
     icon: github
